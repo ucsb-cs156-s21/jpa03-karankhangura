@@ -11,9 +11,9 @@ On Heroku: https://jpa03-karankhangura.herokuapp.com/
   badge markup below as well so that the badge links to your
   correct codecov report.
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho
+On Codecov: https://app.codecov.io/gh/ucsb-cs156-s21/jpa03-karankhangura
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho)
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-karankhangura/branch/main/graph/badge.svg)](https://app.codecov.io/gh/ucsb-cs156-s21/jpa03-karankhangura)
 
 
 ## Integrations
